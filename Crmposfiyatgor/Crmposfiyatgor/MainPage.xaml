@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"
+             x:Class="Crmposfiyatgor.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0">
+            <StackLayout  Orientation="Horizontal">
+                <Label Text="Crmpos Fiyat Gör" HorizontalOptions="StartAndExpand" TextColor="White" FontSize="15"/>
+                <Button x:Name="btnsqlayar" BackgroundColor="#2196F3" Text="..." TextColor="White" FontSize="11" HorizontalOptions="EndAndExpand" WidthRequest="35" HeightRequest="30" Clicked="btnsqlayar_Clicked"/>
+            </StackLayout>
+
+
+        </Frame>
+        <Entry x:Name="barkod"  Placeholder="Barkod giriniz..." Completed="barkod_Completed"  effects:KeyboardEffect.EnableKeyboard="False" >
+            <Entry.Effects>
+                <effects:KeyboardEnableEffect/>
+            </Entry.Effects>
+        </Entry>        
+        
+        <Label x:Name="stokadi" Text="" HorizontalTextAlignment="Center" FontSize="18" />
+       
+        <Label x:Name="tlfiyat" Text="" HorizontalTextAlignment="Center" FontSize="30"  />
+
+        <Label x:Name="dolarfiyat" Text="" HorizontalTextAlignment="Center"  FontSize="28"  />
+        
+        <Label x:Name="eurofiyat" Text="" HorizontalTextAlignment="Center" FontSize="28"   />       
+        
+        <Label x:Name="lblmiktar" HorizontalOptions="EndAndExpand" FontSize="18" /> 
+        
+    </StackLayout>
+</ContentPage>

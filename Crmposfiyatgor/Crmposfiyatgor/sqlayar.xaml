@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Crmposfiyatgor.sqlayar">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="sqladres" Placeholder="Server Adı"/>
+            <Entry x:Name="sqldbad" Placeholder="Veritabanı İsmi"/>
+            <Entry x:Name="sqlkul" Placeholder="Sql Kullanıcı"/>
+            <Entry x:Name="sqlpw" Placeholder="Sql Şifre"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button x:Name="concontrol" Text="Sına" Clicked="concontrol_Clicked"/>
+                <Button x:Name="consave" Text="Kaydet" Clicked="consave_Clicked"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

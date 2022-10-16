@@ -1,0 +1,15 @@
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\bin\Debug\netstandard2.0\Crmposfiyatgor.deps.json
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\bin\Debug\netstandard2.0\Crmposfiyatgor.dll
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\bin\Debug\netstandard2.0\ref\Crmposfiyatgor.dll
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\bin\Debug\netstandard2.0\Crmposfiyatgor.pdb
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\Crmposfiyatgor.csprojAssemblyReference.cache
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\Crmposfiyatgor.AssemblyInfoInputs.cache
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\Crmposfiyatgor.AssemblyInfo.cs
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\Crmposfiyatgor.dll
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\ref\Crmposfiyatgor.dll
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\Crmposfiyatgor.pdb
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\sqlayar.xaml.g.cs
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\Crmposfiyatgor.csproj.CoreCompileInputs.cache
+C:\Users\Shepherd\source\repos\Crmposfiyatgor\Crmposfiyatgor\Crmposfiyatgor\obj\Debug\netstandard2.0\XamlC.stamp
